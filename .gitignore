@@ -1,6 +1,9 @@
 # Zip packages (built artifacts)
 *.zip
 
+# Legacy source snapshots
+v14-src/
+
 # OS
 .DS_Store
 Thumbs.db
