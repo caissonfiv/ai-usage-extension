@@ -1,0 +1,10 @@
+# Zip packages (built artifacts)
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
